@@ -5,7 +5,9 @@ und noch mehr
 kkk
 mmm
 
-1.Neue Zeile von Nina
-2. mein Senf
+Teamversion:
 
-vielen Dank, liebe Nina - ich will aber was anderes reinschreiben
+1.Neue Zeile von Nina
+2. noch eine neue Zeile von Nina
+3. nächste neue Zeile parallel zur Änderung
+2. Maries Senf
