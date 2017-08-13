@@ -5,8 +5,6 @@ und noch mehr
 kkk
 mmm
 
-Teamversion:
-
 1.Neue Zeile von Nina
 2. noch eine neue Zeile von Nina
 
@@ -21,3 +19,6 @@ lkhaöljfÖFLKSAAKÖFKFÖDFÄD
 
 Eine Änderung für Eda
 
+3.nächste neue Zeile parallel zur Änderung
+lkhaöljfÖFLKSAAKÖFKF
+edasÃ¤nderung
